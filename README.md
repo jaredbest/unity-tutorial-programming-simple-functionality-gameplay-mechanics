@@ -5,6 +5,6 @@
 # Course Repo
 
 - **Title:** Programming Simple Functionality: Unit 4 - Gameplay Mechanics
-- **Taught by:** Unity Technologies
+- **Instructor:** Unity Technologies
 - **Platform:** Unity Learn
 - **Note(s):**
